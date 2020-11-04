@@ -1,28 +1,40 @@
-# FrameBot
+# FrameBot Indonesian Version By Jamet1337
 
-## Requirements
-* Python3 Download Python3 from https://www.python.org/downloads/
+## Persyaratan
+* Python3 Download Python3 Dari https://www.python.org/downloads/
 * OpenCV ```pip install opencv-python```
 * Facebook-SDK ```pip install facebook-sdk```
 * Schedule ```pip install schedule```
 
-## How to use:
-* Make a page on facebook
-* Head over to http://maxbots.ddns.net/token/ and get the access token for your page
-* Copy the token and paste it in assets/token.txt
-* Place the video in assets/video
-* Open your Terminal/Powershell(as administrator)/Command Prompt(as administrator) in the main folder of this repository
-* Run python3 main.py or sudo python3 main.py if you are on a Mac/Linux
-* Enjoy!
+## Cara Menggunakan :
+* Buat Sebuah Halaman Di Facebook, Bisa Anda Berinama Every Frame Eimi Ambiyah
+* Buka Website http://maxbots.ddns.net/token/ Dan Dapatkan Akses Token Untuk Halaman Facebook Anda
+* Salin Token Dan Paste kan Di Dalam assets/token.txt
+* Tempatkan Video Di assets/video
+* Buka Celana,Eh Maksudnya Buka Terminal/Powershell(sebagai administrator)/Command Prompt(sebagai administrator) Di Folder Utama Repository Ini
+* Jalankan python3 main.py Atau sudo python3 main.py Jika Anda Menggunakan Mac/Linux
+* Enjoyyyyyyy,Coooooy,Hayuuuuk!
 
-## Warning!
-* After setting everything up you have to host the bot somewhere, i.e, let it run by itself without having to close the script. Preferably you could do it on a VPS like Amazon's EC2/Lambda and Google Cloud, although I personally would prefer EC2 with Amazon Linux(CentOS 7).
+## Peringatan!
+* Setelah mengatur semuanya, Anda harus meng-host bot di suatu tempat, yaitu membiarkannya berjalan dengan sendirinya tanpa harus menutup skrip. Lebih disukai Anda bisa melakukannya di VPS seperti Amazon EC2 / Lambda dan Google Cloud, meskipun saya pribadi lebih suka EC2 dengan Amazon Linux (CentOS 7)
 
-**Note** : You can also host it in your PC/laptop but it will tremendously slow your workflow. An old laptop/pc is ideal as well
-* As of now the script can only process single episodes/movies. The source code for whole series can be obtained by supporting me at https://www.patreon.com/etjfo
-* Don't hesitate to hit me up here if you face any problems or if you donated at semolini#2344 (discord)
+**Catatan** : Anda juga dapat menyimpannya di PC / laptop Anda tetapi itu akan sangat memperlambat alur kerja Anda. Laptop / pc lama juga ideal 
+* Saat ini skrip hanya dapat memproses satu episode / film. Kode sumber untuk seluruh seri dapat diperoleh dengan mendukung saya di https://www.patreon.com/etjfo 
+* Jangan ragu untuk menghubungi saya di sini jika Anda menghadapi masalah atau jika Anda menyumbang di semolini # 2344 (discord)
+* Facebook : Zoxa heker berlisensi Sni
 
-**Most Importantly** : DO NOT TRY TO SCHEDULE IT MANUALLY FOR EVERY ONE MINUTE! There is a reason why I set it to 1 hour.
-You can set it to a MINIMUM of 30 minutes if you like, **DO NOT TRY TO SET IT TO 1 MINUTE OR 5 MINUTES WHATSOEVER**
+** Yang Paling Penting **: JANGAN COBA JADWALKAN SECARA MANUAL SELAMA SETIAP SATU MENIT! Ada alasan kenapa saya setel ke 1 jam. Anda dapat mengaturnya ke MINIMUM 30 menit jika Anda mau, 
+** JANGAN COBA UNTUK MENYETELNYA MENJADI 1 MENIT ATAU 5 MENIT APA PUN 
+** Jika Anda melakukannya, dan itu memblokir akun Anda, maka PC Anda akan mendapat BSOD 
+*** SAYA TIDAK BERTANGGUNG JAWAB ***
 
-If you do, and it blocks your account, gives your PC a BSOD ***I'M NOT RESPONSIBLE***
+## Thanks To :
+** Jamet1337(Ahmat Badali).
+** Facebook : Zoxa heker berlisensi sni
+** Website : https://www.heker.ml
+
+** Indonesian Cyber Team
+** Facebook : Indonesian Cyber Team
+
+** Cytoxploit
+** Facebook : Cytoxploit
