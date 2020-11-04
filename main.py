@@ -1,6 +1,6 @@
-#This code was written by Boidushya Bhattacharya and Gustav Wallström (github/sudoxd) on Monday, 26 November 2019 at 20:27 p.m.
-#Reddit: https://reddit.com/u/Boidushya
-#Facebook: https://facebook.com/soumyadipta.despacito
+#This code was written by Jamet1337(Ahmat Badali) For Indonesian Version
+#Team : Indonesian Cyber Team And Cytoxploit
+#Facebook: Zoxa Heker Berlisensi Sni
 
 import cv2
 import os
