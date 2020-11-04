@@ -29,12 +29,12 @@
 ***SAYA TIDAK BERTANGGUNG JAWAB***
 
 ## Thanks To :
-* Jamet1337(Ahmat Badali).
-* Facebook : Zoxa heker berlisensi sni
-* Website : https://www.heker.ml
+**Jamet1337(Ahmat Badali).**
+**Facebook : Zoxa heker berlisensi sni**
+**Website : https://www.heker.ml**
 
-* Indonesian Cyber Team
-* Facebook : Indonesian Cyber Team
+**Indonesian Cyber Team**
+**Facebook : Indonesian Cyber Team**
 
-* Cytoxploit
-* Facebook : Cytoxploit
+**Cytoxploit**
+**Facebook : Cytoxploit**
