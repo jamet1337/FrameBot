@@ -23,18 +23,18 @@
 * Jangan ragu untuk menghubungi saya di sini jika Anda menghadapi masalah atau jika Anda menyumbang di semolini # 2344 (discord)
 * Facebook : Zoxa heker berlisensi Sni
 
-** Yang Paling Penting **: JANGAN COBA JADWALKAN SECARA MANUAL SELAMA SETIAP SATU MENIT! Ada alasan kenapa saya setel ke 1 jam. Anda dapat mengaturnya ke MINIMUM 30 menit jika Anda mau, 
-** JANGAN COBA UNTUK MENYETELNYA MENJADI 1 MENIT ATAU 5 MENIT APA PUN 
-** Jika Anda melakukannya, dan itu memblokir akun Anda, maka PC Anda akan mendapat BSOD 
+** Yang Paling Penting ** : JANGAN COBA JADWALKAN SECARA MANUAL SELAMA SETIAP SATU MENIT! Ada alasan kenapa saya setel ke 1 jam. Anda dapat mengaturnya ke MINIMUM 30 menit jika Anda mau, 
+* JANGAN COBA UNTUK MENYETELNYA MENJADI 1 MENIT ATAU 5 MENIT APA PUN 
+* Jika Anda melakukannya, dan itu memblokir akun Anda, maka PC Anda akan mendapat BSOD 
 *** SAYA TIDAK BERTANGGUNG JAWAB ***
 
 ## Thanks To :
-** Jamet1337(Ahmat Badali).
-** Facebook : Zoxa heker berlisensi sni
-** Website : https://www.heker.ml
+* Jamet1337(Ahmat Badali).
+* Facebook : Zoxa heker berlisensi sni
+* Website : https://www.heker.ml
 
-** Indonesian Cyber Team
-** Facebook : Indonesian Cyber Team
+* Indonesian Cyber Team
+* Facebook : Indonesian Cyber Team
 
-** Cytoxploit
-** Facebook : Cytoxploit
+* Cytoxploit
+* Facebook : Cytoxploit
